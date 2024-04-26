@@ -1,0 +1,23 @@
+*.Apt	aperture file
+*.GBD	board layer
+*.GBL	bottom layer
+*.GBP	bottom paste mask
+*.GBS	bottom solder mask
+*.GGD	2nd layer (negative)
+*.GPW	3rd layer (negative)
+*.GTL	top layer
+*.GTO	top overlay
+*.GTP	top paste mask
+*.GTS	top solder mask
+*.pik	pick and place
+*.TOL	tool file
+*.TXT	drill file
+*.GDD	drill drawing
+readme.txt this file
+
+1 oz copper
+red solder mask
+white silkscreen
+0.063" total board thickness
+ENIG Surface Finish
+
