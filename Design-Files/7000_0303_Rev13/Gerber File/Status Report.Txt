@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [7000_0303_Rev13.PrjPcb]
+   Generated File[PCB_7000_0303_Rev13.TXT]
+   Generated File[PCB_7000_0303_Rev13.LDP]
+   Generated File[PCB_7000_0303_Rev13.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:40:09 PM On 5/2/2024

@@ -1,0 +1,15 @@
+UNITS=MM
+#Layer_Color=32768
+#
+#Feature symbol names
+#
+$0 r2.54
+
+#
+#Feature attribute names
+#
+
+#
+#Layer features
+#
+L 47.243746 90.442796 47.244254 90.443304 0 P 0
